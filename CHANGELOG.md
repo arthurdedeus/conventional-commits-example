@@ -1,3 +1,15 @@
+# [](https://github.com/arthurdedeus/conventional-commits-example/compare/v0.1.0...v) (2022-02-10)
+
+
+* feat!: This is a breaking change ([ee1332e](https://github.com/arthurdedeus/conventional-commits-example/commit/ee1332ee79b43990e5aced88bc583774076d4803))
+
+
+### BREAKING CHANGES
+
+* An actual breaking change
+
+
+
 #  (2022-02-10)
 
 
