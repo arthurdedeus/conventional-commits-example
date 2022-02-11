@@ -1,3 +1,24 @@
+# [](https://github.com/arthurdedeus/conventional-commits-example/compare/v1.0.0...v) (2022-02-11)
+
+
+### Bug Fixes
+
+* Fix bug in amazing feature ([f3cfea5](https://github.com/arthurdedeus/conventional-commits-example/commit/f3cfea5e576b27355d7ddb09a378b10542f7fb83))
+* Fix bug in awesome feature ([2deff1e](https://github.com/arthurdedeus/conventional-commits-example/commit/2deff1ee3200cf00e27e07cc0788e4687657f923))
+
+
+### Features
+
+* **big:** Create big feature ([95f0423](https://github.com/arthurdedeus/conventional-commits-example/commit/95f0423627d8138e675b7c16e2288da4da3b4a2a))
+* Change python version ([5850463](https://github.com/arthurdedeus/conventional-commits-example/commit/585046342a08e08625eb2ea1967f807776e9f92f))
+
+
+### BREAKING CHANGES
+
+* Change python version from 3.6.8 to 3.6.12
+
+
+
 # [](https://github.com/arthurdedeus/conventional-commits-example/compare/v0.1.0...v) (2022-02-10)
 
 
